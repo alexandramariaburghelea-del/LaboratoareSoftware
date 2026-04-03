@@ -1,0 +1,10 @@
+# Default ignored files
+/../../LaboratoareSoftware./.idea/shelf/
+/../../LaboratoareSoftware./.idea/workspace.xml
+# Ignored default folder with query files
+/../../LaboratoareSoftware./.idea/queries/
+# Datasource local storage ignored files
+/../../LaboratoareSoftware./.idea/dataSources/
+/../../LaboratoareSoftware./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../LaboratoareSoftware./.idea/httpRequests/
