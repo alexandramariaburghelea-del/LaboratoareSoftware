@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecd8cdb-cbff-49b1-9602-f3b64c177f55" name="Changes" comment="Ex1">
+    <list default="true" id="fecd8cdb-cbff-49b1-9602-f3b64c177f55" name="Changes" comment="lab4">
       <change beforePath="$PROJECT_DIR$/../LaboratoareSoftware/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaboratoareSoftware/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.LaboratoareSoftware [:Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab3.Main.main()].executor": "Run",
-    "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab4.Applab4.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.LaboratoareSoftware [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab3.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab4.Applab4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="LaboratoareSoftware." />
@@ -124,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773989115994</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab4">
+      <option name="closed" value="true" />
+      <created>1774596015400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774596015400</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex1" />
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
 </project>
