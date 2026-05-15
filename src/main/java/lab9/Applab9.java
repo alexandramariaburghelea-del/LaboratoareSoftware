@@ -32,7 +32,7 @@ public class Applab9 {
         System.out.println("lista [10,20] "+Interval);
 
         //d)
-        List<Double> listaDouble=lista.stream().map(x->lista.DoubleValue()).collect(Collectors.toList());
+        List<Double> listaDouble=lista.stream().map(x->x.doubleValue()).collect(Collectors.toList());
         System.out.println("list in double "+listaDouble);
 
         //e)
