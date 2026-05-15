@@ -1,10 +1,7 @@
 package lab9;
 
 import java.sql.SQLOutput;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
-import java.util.Random;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Applab9 {
@@ -43,6 +40,22 @@ public class Applab9 {
         else{
             System.out.println("valoarea 12 nu exista");
         }
+
+        //ex2:
+        String text="Acesta este un program scris in java pentru expresii lambda";
+        List<String> cuvinte= Arrays.asList(text.split("\\s+"));
+        List<String> filtrate=cuvinte.stream().filter(x->x.length()>=5).collect(Collectors.toList());
+        System.out.println("filtrate "+filtrate);
+
+        //b)
+        List<String> filtrateSortat=filtrate.stream().sorted().collect(Collectors.toList());
+        System.out.println("lista sortata "+filtrateSortat);
+
+        //c)
+        Optional<String> p=cuvinte.stream().filter(x->x.startsWith("p")).findFirst();
+        System.out.println("cuvant cu p"+p);
+
+
 
     }
 }
