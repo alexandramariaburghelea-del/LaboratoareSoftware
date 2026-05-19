@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fecd8cdb-cbff-49b1-9602-f3b64c177f55" name="Changes" comment="lab5">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/alexandramariaburghelea-del/LaboratoareSoftware.git",
-    "accountId": "99c1de12-56b6-4856-af32-a2e15a206c97"
+    "accountId": "15258430-ff97-4432-bd9c-64c74d6c618a"
   }
 }]]></component>
   <component name="ProblemsViewState">
@@ -60,6 +61,7 @@
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab4.Applab4.main()].executor": "Run",
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab5.AppLab5.main()].executor": "Run",
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab5.advanced.Lab5Adv.main()].executor": "Run",
+    "Gradle.NewIntCalculatorTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -67,7 +69,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Alex/IdeaProjects/LaboratoareSoftware/src/main/java/lab6",
+    "last_opened_file_path": "C:/Users/Alex/Documents/alexandra_anII/paradigme_de_programare/LaboratoareSoftware/src/main/java/lab7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +83,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\alexandra_anII\paradigme_de_programare\LaboratoareSoftware\src\main\java\lab7" />
       <recent name="C:\Users\Alex\IdeaProjects\LaboratoareSoftware\src\main\java\lab6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\alexandra_anII\paradigme_de_programare\LaboratoareSoftware\src\main\java\lab7" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.NewIntCalculatorTest">
@@ -105,8 +111,11 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <configuration name="NewIntCalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -129,8 +138,11 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
