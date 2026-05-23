@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecd8cdb-cbff-49b1-9602-f3b64c177f55" name="Changes" comment="lab5">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fecd8cdb-cbff-49b1-9602-f3b64c177f55" name="Changes" comment="lab7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +34,12 @@
     &quot;assignee&quot;: &quot;alexandramariaburghelea-del&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alexandramariaburghelea-del/LaboratoareSoftware.git",
-    "accountId": "15258430-ff97-4432-bd9c-64c74d6c618a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexandramariaburghelea-del/LaboratoareSoftware.git&quot;,
+    &quot;accountId&quot;: &quot;15258430-ff97-4432-bd9c-64c74d6c618a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -57,6 +55,7 @@
   "keyToString": {
     "Gradle.DoubleCalculatorTest.executor": "Run",
     "Gradle.LaboratoareSoftware [:Main.main()].executor": "Run",
+    "Gradle.LaboratoareSoftware [:lab8.lab8App.main()].executor": "Run",
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab3.Main.main()].executor": "Run",
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab4.Applab4.main()].executor": "Run",
     "Gradle.LaboratoareSoftware.::Users:Alex:IdeaProjects:LaboratoareSoftware [:lab5.AppLab5.main()].executor": "Run",
@@ -69,7 +68,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Alex/Documents/alexandra_anII/paradigme_de_programare/LaboratoareSoftware/src/main/java/lab7",
+    "last_opened_file_path": "C:/Users/Alex/Documents/alexandra_anII/paradigme_de_programare/LaboratoareSoftware",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,6 +82,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\alexandra_anII\paradigme_de_programare\LaboratoareSoftware" />
       <recent name="C:\Users\Alex\Documents\alexandra_anII\paradigme_de_programare\LaboratoareSoftware\src\main\java\lab7" />
       <recent name="C:\Users\Alex\IdeaProjects\LaboratoareSoftware\src\main\java\lab6" />
     </key>
@@ -90,7 +90,7 @@
       <recent name="C:\Users\Alex\Documents\alexandra_anII\paradigme_de_programare\LaboratoareSoftware\src\main\java\lab7" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.NewIntCalculatorTest">
+  <component name="RunManager">
     <configuration name="DoubleCalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -244,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775196596022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lab7">
+      <option name="closed" value="true" />
+      <created>1779207014731</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779207014731</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +274,7 @@
     <MESSAGE value="lab4" />
     <MESSAGE value="lab2" />
     <MESSAGE value="lab5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
+    <MESSAGE value="lab7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab7" />
   </component>
 </project>
